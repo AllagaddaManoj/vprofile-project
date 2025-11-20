@@ -1,6 +1,7 @@
 # Prerequisites
 ######
 Added the new line
+I am going to work well in devops and gonna get confident soon
 - JDK 21
 - Maven 3.9
 - MySQL 8
